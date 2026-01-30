@@ -4,4 +4,4 @@ git add README.md
 git commit -m "first commit
 git branch -M mai
 git remote add origin https://github.com/cretiulewna/First-test.git
-git push -u origin mai
+git push -u origin ma
