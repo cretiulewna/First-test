@@ -3,5 +3,5 @@ git ina
 git add README.md
 git commit -m "first commit
 git branch -M 
-git remote add origin https://github.com/cretiulewna/Fist-tes 112
+git remote add origin https://github.com/cretiulewna/Fist-tes 112a
 git push -u origin m
